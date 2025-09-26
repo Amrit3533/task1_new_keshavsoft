@@ -4,7 +4,7 @@ This repository contains the frontend source code for KeshavSoft, a modern and r
 
 ### Live Demo
 
-You can view a live deployment of the project [here](https://amrit3533.github.io/keshavsoft_frontend/).
+You can view a live deployment of the project [here](https://amrit3533.github.io/task1_new_keshavsoft/).
 
 ## Key Features
 
