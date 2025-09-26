@@ -51,11 +51,11 @@ This is a static website. To run it locally, follow these steps:
 
 The project follows a simple and organized file structure:
 
-├── index.html         # Home page
-├── about.html         # About page
-├── contact.html       # Contact page
-└── assets/
-├── css/
-│   └── custom.css # Custom styles and animations
-└── js/
-└── custom.js  # Form handling and UI interactivity
+    ├── index.html         # Home page
+    ├── about.html         # About page
+    ├── contact.html       # Contact page
+    └── assets/
+    ├── css/
+    │   └── custom.css # Custom styles and animations
+    └── js/
+    └── custom.js  # Form handling and UI interactivity
